@@ -1,0 +1,4 @@
+# Ignorar archivos grandes
+Datos/customers.csv
+Datos/young_female_trans.csv
+training_data.parquet
