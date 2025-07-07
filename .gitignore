@@ -1,4 +1,16 @@
-# Ignorar archivos grandes
-Datos/customers.csv
-Datos/young_female_trans.csv
+# Archivos de datos grandes
+Datos/
 training_data.parquet
+
+# Artefactos del modelo
+*.pkl
+
+# Archivos de entorno y caché de Python
+__pycache__/
+*.pyc
+.env
+.venv
+venv/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints
